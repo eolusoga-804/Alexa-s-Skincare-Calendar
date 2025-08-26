@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  animation: gradientBG 8s ease infinite;
+  animation: gradientBG 4s ease infinite;
   background: linear-gradient(135deg, #efe6eb, #f3046b, #b7410e, #04457a);
   background-size: 800% 400%;
   color: #fff;
